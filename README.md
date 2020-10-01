@@ -11,4 +11,4 @@ Foi iniciada mais uma edição da [hacktoberfest](https://hacktoberfest.digitalo
 |------|------|------|------|
 | R-Ladies Brasil | Lista com as redes sociais dos capítulos, e eventos online futuros e passados | https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil  | Para as pessoas organizadoras de capítulos da R-Ladies, é interessante verificar se todas as redes sociais do capítulo estão listadas. Além disso, adicionar eventos futuros, passados, e o link dos materiais utilizados. |
 |    Awesome R  |   A curated list of awesome R packages and tools. Inspired by awesome-machine-learning. |   https://github.com/qinwf/awesome-R   |    Você pode contribuir sugerindo pacotes do R!   | 
-|      |      |      |       | 
+|  GECD    |   Curso open-source de introdução a programação em R.   |  https://github.com/gecdfoz/GECD/tree/master/Nivelamento%20e%20Integra%C3%A7%C3%A3o/Algoritmo%20e%20Programa%C3%A7%C3%A3o/R    |   Você pode auxiliar na montagem do curso de programação em R! É só escolher um dos temas e começar a escrever. O repo já conta com alguns materiais feitos para o Python passíveis de serem traduzidos para R. | 
