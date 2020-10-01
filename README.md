@@ -10,5 +10,5 @@ Foi iniciada mais uma edição da [hacktoberfest](https://hacktoberfest.digitalo
 | Projeto | Descrição | Repositório | Sugestões e outros |
 |------|------|------|------|
 | R-Ladies Brasil | Lista com as redes sociais dos capítulos, e eventos online futuros e passados | https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil  | Para as pessoas organizadoras de capítulos da R-Ladies, é interessante verificar se todas as redes sociais do capítulo estão listadas. Além disso, adicionar eventos futuros, passados, e o link dos materiais utilizados. |
-|      |      |      |       | 
+|    Awesome R  |   A curated list of awesome R packages and tools. Inspired by awesome-machine-learning. |   https://github.com/qinwf/awesome-R   |    Você pode contribuir sugerindo pacotes do R!   | 
 |      |      |      |       | 
