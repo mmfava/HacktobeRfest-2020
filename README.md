@@ -7,7 +7,7 @@ Another edition of the [hacktober fest](https://hacktoberfest.digitalocean.com/)
 Foi iniciada mais uma edição da [hacktober fest](https://hacktoberfest.digitalocean.com/) mas, como já era esperado, entre as sugestões de projetos para contribuição, não encontramos repositórios com linguagem R. Para propagandear esses projetos, criamos esse repo para listar tais projetos, e assim deixa-los acessíveis para a comunidade de programadores do evento. 
 
 
-| Project | description | Repository |
+| Project | Description | Repository |
 |------|------|------|
 |      |      |      |
 |      |      |      |
